@@ -1,4 +1,6 @@
-# Materiales de la sesión 1: Presentación del curso, Lógica Proposicional y Teoría de Conjuntos.
+# Materiales de la sesión 1
+**Incluye:** Presentación del curso, Lógica Proposicional y Teoría de Conjuntos.
+
 *Última actualización: 5 de marzo*
 
 En esta carpeta vas a encontrar todos los materiales utilizados para la primer sesión.
