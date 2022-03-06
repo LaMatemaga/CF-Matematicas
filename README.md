@@ -11,10 +11,12 @@ El transcrito de la clase lo podrás encontrar próximamente en mi blog personal
 Por carpetas, podrás encontrar lo siguiente:
 
 ### Sesión 1
+*Fecha: 5 de marzo del 2022*
+
 Temas abordados en la sesión:
-- Presentación del curso (5 de marzo)
-- Lógica (5 de marzo)
-- Teoría de Conjuntos (5 de marzo)
+- Presentación del curso
+- Lógica
+- Teoría de Conjuntos
 
 Materiales dentro de la carpeta:
 - Presentación utilizada durante la sesión
@@ -23,8 +25,10 @@ Recursos externos:
 - Por anunciar
 
 ### Sesión 2
+*Fecha: 12 de marzo del 2022*
+
 Temas abordados en la sesión:
-- Teoría de Grafos (12 de marzo)
+- Teoría de Grafos
 
 Materiales dentro de la carpeta:
 - Por anunciar
@@ -33,6 +37,8 @@ Recursos externos:
 - Por anunciar
 
 ### Sesión 3
+*Fecha: 19 de marzo del 2022*
+
 Temas abordados en la sesión:
 - Matemáticas Discretas con Python (19 de marzo)
 
