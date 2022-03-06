@@ -20,7 +20,7 @@ Este repositorio contiene el material adicional del bootcamp de introducción a 
 El transcrito de la clase lo podrás encontrar próximamente en mi blog personal. En cuanto termine de levantar el sitio pondré aquí toda la información junto con las ligas paso a paso de lo visto en clase.
 
 ## Sección de Discusión
-Agradecería muchísimo que participaras en la (sección de discusión)[https://github.com/LaMatemaga/cf-matematicas-discretas/discussions] del repositorio. ¡Cuéntanos qué te ha parecido el material! También puedes hacer preguntas o dar sugerencias para que el contenido del repositorio del curso de Matemáticas Discretas sea mucho más ameno para todos.
+Agradecería muchísimo que participaras en la [sección de discusión](https://github.com/LaMatemaga/cf-matematicas-discretas/discussions) del repositorio. ¡Cuéntanos qué te ha parecido el material! También puedes hacer preguntas o dar sugerencias para que el contenido del repositorio del curso de Matemáticas Discretas sea mucho más ameno para todos.
 
 ## Contenido
 Por carpetas, podrás encontrar lo siguiente:
