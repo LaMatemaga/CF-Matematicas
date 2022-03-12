@@ -1,5 +1,5 @@
 # Módulo 6: Matemáticas Discretas
-*Última actualización: 5 de marzo*
+*Última actualización: 12 de marzo*
 
 Irónicamente, las matemáticas discretas son las matemáticas que lo cuentan todo. Si se trata de hacer algo con números naturales (bajo el contexto de este curso nos vamos a referir como "números naturales" a números como el 0, el 1, el 2, ...), ¡es algo que se pueden estudiar desde las matemáticas discretas!
 
@@ -35,6 +35,7 @@ Temas abordados en la sesión:
 
 Materiales dentro de la carpeta:
 - Presentación utilizada durante la sesión
+- Hoja guía con resumen de lo visto en clase (y material adicional)
 
 Recursos externos:
 - Por anunciar
@@ -46,7 +47,7 @@ Temas abordados en la sesión:
 - Teoría de Grafos
 
 Materiales dentro de la carpeta:
-- Por anunciar
+- Mapas de diferentes países de Hispanoamérica y Brasil
 
 Recursos externos:
 - Por anunciar
