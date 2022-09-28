@@ -40,7 +40,7 @@ Por carpetas, podrás encontrar lo siguiente:
 
 Temas abordados en las sesiones:
 - Presentación del curso
-- Lógica
+- Lógica Proposicional
 - Teoría de Conjuntos
 
 Materiales dentro de la carpeta:

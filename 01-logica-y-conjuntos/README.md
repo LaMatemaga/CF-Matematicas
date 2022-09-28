@@ -1,4 +1,4 @@
-# Materiales de la sesión 1
+# Materiales de Lógica y Conjuntos
 **Incluye:** Presentación de los materiales de los cursos de Lógica Proposicional y Teoría de Conjuntos.
 
 *Última actualización: 27 de septiembre*
@@ -6,7 +6,7 @@
 En esta carpeta vas a encontrar todos los materiales utilizados en los cursos de Lógica Proposicional y Teoría de Conjuntos. Decidí dejarlos juntos porque son temas que van muy de la mano al momento de programar. Sin embargo, para el Bootcamp de Programación desde Cero se decidió separar ambos tópicos para poder cubrirlos sin comprometer el tiempo.
 
 Por lo pronto, podrás ver:
-- `Lógica Proposicional.pdf`: La presentación utilizada en la sesión del 20 de septiembre (PENDIENTE DE SUBIR).
+- `Lógica Proposicional.pdf`: La presentación utilizada en la sesión del 20 de septiembre.
 - `Teoría de Conjuntos.pdf`: La presentación utilizada en la sesión del 27 de septiembre.
 - `Lógica y Conjuntos - Cheatsheet (Respuestas).pdf`: Hoja de referencia para rápido acceso a los conceptos de la sesiones.
 - `Lógica y Conjuntos - Cheatsheet (DIY).pdf`: Hoja de referencia (DIY) para llenar los espacios en blanco con los conceptos vistos en las sesiones.
